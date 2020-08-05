@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ADE32.cpp" />
+    <ClCompile Include="BitStream.cpp" />
+    <ClCompile Include="CDetour.cpp" />
+    <ClCompile Include="functions.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="HookedRakClient.cpp" />
+    <ClCompile Include="RakClient.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ADE32.h" />
+    <ClInclude Include="BitStream.h" />
+    <ClInclude Include="CDetour.h" />
+    <ClInclude Include="functions.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="RakClient.h" />
+    <ClInclude Include="HookedRakClient.h" />
+  </ItemGroup>
+</Project>
